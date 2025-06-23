@@ -87,5 +87,4 @@ To run this analysis on your local machine, please follow these steps.
     Once the Jupyter interface opens in your browser, click on `Test.ipynb` to open it. You can then run the cells sequentially to reproduce the entire analysis.
 
 
-This project is licensed under the MIT License.
-```
+
