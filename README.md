@@ -8,7 +8,7 @@ This project uses machine learning to analyze various stress-related factors and
 
 ## 📸 Key Analysis Screenshot
 
-![Feature Importance Chart](./screenshot.png)
+![Feature Importance Chart](./stress-prediction.png)
 
 
 ## 📂 Project Structure
