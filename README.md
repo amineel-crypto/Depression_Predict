@@ -2,7 +2,7 @@
 
 ![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)
 ![Library](https://img.shields.io/badge/Library-Scikit--learn-orange.svg)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 This project uses machine learning to analyze various stress-related factors and predict the likelihood of depression. The entire workflow, from data cleaning and exploratory analysis to model training and evaluation, is contained within the primary Jupyter Notebook.
 
